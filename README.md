@@ -1,31 +1,74 @@
-# Hi 👋, I'm Prashant Patil
+# Hi, I'm Prashant Patil 👋
 
-💻 WordPress Developer passionate about building modern and responsive websites.
+### 🧪 Aspiring Software Tester
 
-## 🚀 About Me
-- 🌱 Currently improving my skills in WordPress development
-- 🧩 Experienced in Elementor, WooCommerce and website customisation
-- ⚡ Interested in creating fast and SEO-friendly websites
-- 🎯 Goal: To become a professional WordPress Developer
+I'm currently building my skills in **Software Testing and Test Automation** with a focus on practical projects and real-world testing workflows.
 
-## 🛠️ Skills
-- WordPress
-- Elementor
-- WooCommerce
-- HTML
-- CSS
-- Basic PHP
-- SEO Optimisation
+### 🛠️ Skills
 
-## 🌐 Projects
-🔹 Business Website – Responsive company website built with WordPress and Elementor  
+* Manual Testing
+* Selenium WebDriver
+* Python
+* Pytest
+* Page Object Model (POM)
+* Explicit Waits
+* Jira
+* Git & GitHub
+* HTML & CSS
+* WordPress
 
-🔹 E-commerce Store – WooCommerce online store with product pages and checkout system  
+### 🧪 Test Automation
 
-🔹 Blog Website – SEO optimised blog website with categories and a responsive layout
+Currently working with:
 
-## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: yourmail@gmail.com
+```text
+Python
+   ↓
+Selenium WebDriver
+   ↓
+Pytest
+   ↓
+Page Object Model
+   ↓
+GitHub Actions
+```
+
+### 🚀 Featured Project
+
+#### SauceDemo Selenium Automation
+
+End-to-end web automation project built using **Python + Selenium + Pytest**.
+
+**Includes:**
+
+* Login testing
+* Invalid login validation
+* Product testing
+* Cart testing
+* Checkout testing
+* Page Object Model
+* Explicit waits
+* GitHub Actions CI
+
+🔗 [View Project](https://github.com/pawar49/saucedemo-selenium-automation)
+
+### 📚 Currently Learning
+
+* Advanced Selenium Automation
+* Test Automation Framework Design
+* API Testing
+* SQL for Testing
+* CI/CD
+* Software Testing Best Practices
+
+### 🎯 Career Goal
+
+To build strong practical experience in **Software Testing and Automation Testing** and contribute to reliable, high-quality software.
+
+### 📫 Connect With Me
+
+* GitHub: [@pawar49](https://github.com/pawar49)
+
+---
 
 ⭐ Thanks for visiting my profile!
